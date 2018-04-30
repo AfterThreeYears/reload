@@ -1,0 +1,44 @@
+{
+   "10min": {
+      "message": "10min"
+   },
+   "10sec": {
+      "message": "10sec"
+   },
+   "1min": {
+      "message": "1min"
+   },
+   "2min": {
+      "message": "2min"
+   },
+   "30min": {
+      "message": "30min"
+   },
+   "30sec": {
+      "message": "30sec"
+   },
+   "5min": {
+      "message": "5min"
+   },
+   "5sec": {
+      "message": "5sec"
+   },
+   "extDescription": {
+      "message": "Auto refresh page:This extension can automatically refresh the page, you can set different time intervals specified page refresh.  "
+   },
+   "extName": {
+      "message": "Auto refresh page"
+   },
+   "isBgTabRun": {
+      "message": "Work when tab in background"
+   },
+   "lang": {
+      "message": "en"
+   },
+   "setInterval": {
+      "message": "Set refresh interval : "
+   },
+   "stop": {
+      "message": "Stop"
+   }
+}

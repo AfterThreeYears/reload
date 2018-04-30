@@ -1,0 +1,44 @@
+{
+   "10min": {
+      "message": "10分钟"
+   },
+   "10sec": {
+      "message": "10秒"
+   },
+   "1min": {
+      "message": "1分钟"
+   },
+   "2min": {
+      "message": "2分钟"
+   },
+   "30min": {
+      "message": "30分钟"
+   },
+   "30sec": {
+      "message": "30秒"
+   },
+   "5min": {
+      "message": "5分钟"
+   },
+   "5sec": {
+      "message": "5秒"
+   },
+   "extDescription": {
+      "message": "本插件可自动刷新页面，可设置不同的时间间隔刷新指定页面。也支持只刷新成为背景页的网页，不影响当前页面的操作。当切换其他标签为最前窗口时才会开始自动刷新。"
+   },
+   "extName": {
+      "message": "页面自动刷新"
+   },
+   "isBgTabRun": {
+      "message": "仅在网页是背景页时刷新"
+   },
+   "lang": {
+      "message": "zh_CN"
+   },
+   "setInterval": {
+      "message": "请选择自动刷新的间隔："
+   },
+   "stop": {
+      "message": "停止"
+   }
+}
